@@ -29,3 +29,16 @@ a:hover,
 a:active {
   color: green;
 }
+.carousel {
+  background-color: #512ad8;
+}
+.carousel-item {
+  height: 300px;
+}
+.carousel-item img {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  min-height: 300px;
+  width: 50%;
+}
